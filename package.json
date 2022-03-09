@@ -1,0 +1,20 @@
+{
+  "name": "tddaiymi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest  --coverage --verbose",
+    "watch": "jest --watchAll --coverage --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.10.0",
+    "jest": "^27.5.1"
+  }
+}
